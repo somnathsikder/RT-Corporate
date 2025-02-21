@@ -1,0 +1,113 @@
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+    /* Banner Area */
+    .banner-content-left h2 {
+       font-size: 36px;
+       line-height: 50px;
+       font-weight: 900;
+       margin-bottom: 20px;
+   }
+   /* About Area */
+   .about-area-right h2{
+       font-size: 22px;
+       line-height: 32px;
+   }
+
+   .about-area-right p {
+    margin-bottom: 30px;
+    font-size: 15px;
+    line-height: 26px;
+    }
+   .about-area-left {
+       margin-top: -50px;
+       margin-bottom: 30px;
+   }
+
+   .section-title h2{
+       font-size: 28px;
+       line-height: 40px;
+   }
+
+   /* Industry Area */
+   .industry-icon-middle {
+       margin-top: 50px;
+   }
+   /* Quisque Area */
+   .quisque-area-left h2{
+       font-size: 28px;
+       line-height: 40px;
+   }
+   .quisque-area-right{
+       margin-top: 60px;
+   }
+   
+   /* Blog Area */
+   .blog-top {
+       margin-top: -150px;
+   }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px) {
+    /* Banner Area */
+    .banner-content-left h2 {
+        font-size: 36px;
+        line-height: 50px;
+        font-weight: 900;
+        margin-bottom: 20px;
+    }
+    /* About Area */
+    .about-area-right h2{
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .about-area-right p {
+        font-size: 15px;
+        line-height: 26px;
+        }
+
+    .about-area-left {
+        margin-top: -50px;
+        margin-bottom: 30px;
+    }
+
+    .section-title h2{
+        font-size: 28px;
+        line-height: 40px;
+    }
+
+    /* Industry Area */
+    .industry-icon-middle {
+        margin-top: 50px;
+    }
+    .industry-area .section-title h2 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    /* Quisque Area */
+    .quisque-area-left h2{
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .quisque-area-right{
+        margin-top: 60px;
+    }
+    
+    /* Blog Area */
+    .blog-top {
+        margin-top: -150px;
+    }
+    .blog-area .section-title h2 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .single-blog-item-box {
+        margin-bottom: 30px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) {}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1400px) {}
